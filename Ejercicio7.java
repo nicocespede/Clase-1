@@ -1,3 +1,5 @@
+package clase1;
+
 import java.util.Scanner;
 
 /*Crea un programa que lea por teclado tres números enteros H, M, S correspondientes a hora, minutos y segundos respectivamente, 
