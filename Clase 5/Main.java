@@ -20,7 +20,7 @@ public class Main {
 	static void printStatus() {
 		System.out.println("ESTADO DE LOS PERSONAJES:\n");
 		System.out.println(human + "\n" + orc + "\n" + elf + "\n");
-		System.out.println("-------------------------------------------\n");
+		System.out.println("------------------------------------------------\n");
 	}
 
 }
