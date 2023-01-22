@@ -7,6 +7,6 @@ public class Orc extends Character {
 	}
 
 	public void orcSpecial() {
-		System.out.println("*Movimiento especial de orco*");
+		System.out.println("*" + this.getName() + " realiza un movimiento especial de orco*");
 	}
 }

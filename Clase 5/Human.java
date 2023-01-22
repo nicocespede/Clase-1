@@ -7,6 +7,6 @@ public class Human extends Character {
 	}
 
 	public void humanSpecial() {
-		System.out.println("*Movimiento especial de humano*");
+		System.out.println("*" + this.getName() + " realiza un movimiento especial de humano*");
 	}
 }

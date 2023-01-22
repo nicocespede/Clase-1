@@ -7,7 +7,7 @@ public class Elf extends Character {
 	}
 
 	public void elfSpecial() {
-		System.out.println("*Movimiento especial de elfo*");
+		System.out.println("*" + this.getName() + " realiza un movimiento especial de elfo*");
 	}
 
 }
